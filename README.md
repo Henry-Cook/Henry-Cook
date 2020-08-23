@@ -1,16 +1,11 @@
-### Hi there 👋
+## :wave: Hi I'm Henry, a developer in training. 
 
-<!--
-**Henry-Cook/Henry-Cook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tools: 
+ ![javascript](https://img.shields.io/badge/JavaScript-green)
+ ![javascript](https://img.shields.io/badge/HTML-orange)
+ ![javascript](https://img.shields.io/badge/CSS-9cf)
+ ![javascript](https://img.shields.io/badge/React-blue)
+ ![javascript](https://img.shields.io/badge/MongoDB-success)
+ ![javascript](https://img.shields.io/badge/Express-blueviolet)
+ ![javascript](https://img.shields.io/badge/Node-green)
+       
