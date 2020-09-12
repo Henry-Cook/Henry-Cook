@@ -22,6 +22,6 @@
 </p>
 <p align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henry-cook&hide=stars,contribs&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henry-cook&hide=stars,contribs&theme=graywhite&show_icons=true" />
 </a>
 </p>
