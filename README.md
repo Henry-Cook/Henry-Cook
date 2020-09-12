@@ -8,6 +8,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-green">
  
+ <img src="https://img.shields.io/badge/Ruby-red">
+ 
 <img src="https://img.shields.io/badge/HTML-orange">
 
 <img src="https://img.shields.io/badge/CSS-9cf">
