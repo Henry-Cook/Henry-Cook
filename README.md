@@ -1,4 +1,4 @@
-<h1 align="center">:wave: Hi I'm Henry, a developer in training.</h1> 
+<h1 align="center">:wave: Hi I'm Henry, a full stack developer.</h1> 
 
 <p align="center">
  <img src="https://media.giphy.com/media/E77YW2DDl3cMo/giphy.gif">
