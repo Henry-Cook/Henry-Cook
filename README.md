@@ -1,7 +1,7 @@
 <h1 align="center">:wave: Hi I'm Henry, a full stack developer.</h1> 
 
 <p align="center">
- <img src="https://media.giphy.com/media/E77YW2DDl3cMo/giphy.gif">
+ <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif">
 </p>
 
 <h1 align="center">These are my tools:</h2>
